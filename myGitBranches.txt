@@ -1,0 +1,5 @@
+* gitIntro
+  master
+  remotes/origin/HEAD -> origin/master
+  remotes/origin/gitIntro
+  remotes/origin/master
